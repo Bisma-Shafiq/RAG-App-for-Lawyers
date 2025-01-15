@@ -1,0 +1,7 @@
+langchain  
+google-generativeai
+faiss-cpu
+langchain_community 
+langchain-google-genai 
+pypdf 
+PyPDF2

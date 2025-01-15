@@ -128,6 +128,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+law-venv
+.env
+chroma_db
 .env
 .venv
 env/
