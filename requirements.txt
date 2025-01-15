@@ -5,3 +5,5 @@ langchain_community
 langchain-google-genai 
 pypdf 
 PyPDF2
+streamlit
+python-dotenv
